@@ -10,15 +10,9 @@
 ---
 
 ### 🌟 About Me
-
 - 🔭 I'm currently working on self-initiated projects.
-- 🌱 I’m currently learning everything I like.
-- 💬 Ask me about anything related to Java/Golang.
 - 📫 How to reach me: [adru727@gmail.com](mailto:adru727@gmail.com)
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/m0_71507863)
 
----
-
-![Visitor Count](https://profile-counter.glitch.me/adpanru/count.svg) visitor, Thank You! 😘😘
 
 
