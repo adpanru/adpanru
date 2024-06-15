@@ -1,16 +1,24 @@
-## Hi there 👋
+### 🇭🇮 Hi there👋, I'm [adru](https://x.com/adru8227) [![Twitter Follow](https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/adru8227)
 
-<!--
-**adpanru/adpanru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+### 🌟 About Me
+
+- 🔭 I'm currently working on self-initiated projects.
+- 🌱 I’m currently learning everything I like.
+- 💬 Ask me about anything related to Java/Golang.
+- 📫 How to reach me: [adru727@gmail.com](mailto:adru727@gmail.com)
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/m0_71507863)
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/adpanru/count.svg) visitor, Thank You! 😘😘
+
+
